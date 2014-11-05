@@ -1,8 +1,8 @@
-*/asm
-*/crash-reports/
-*/logs
-minetweaker.log
-*/saves
-*/fastcraft-1.9.jar
-*/carpentersblocks
-*/screenshots
+Electrifying/minecraft/asm/
+Electrifying/minecraft/crash-reports/
+Electrifying/minecraft/minetweaker.log
+Electrifying/minecraft/saves/
+Electrifying/minecraft/mods/fastcraft-1.9.jar
+Electrifying/minecraft/carpentersblocks/
+Electrifying/minecraft/screenshots/
+Electrifying/minecraft/logs
