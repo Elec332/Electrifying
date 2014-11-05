@@ -14,7 +14,8 @@ Issue report format:
 -log/crashlog (full!)
 
 ====================
-This is pack currently considered as BETA. There might be few bugs around, and some things might need a little tweaking, but its pretty stable at this point.
 ====================
+This is pack currently considered as BETA. There might be few bugs around, and some things might need a little tweaking, but its pretty stable at this point.
+
 
 Interested in helping to Betatest? Please sent me an PM on the FTB Forums.
