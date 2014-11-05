@@ -1,0 +1,50 @@
+bspkrsCore 
+ArmorStatusHUD 
+DamageIndicatorsMod 
+StatusEffectHUD 
+ACT 
+IC2 
+AdvancedSolarPanel 
+AppliedEnergistics2 
+BiblioCraft 
+Better Title Screen 
+BuildCraft 
+BiblioCraft 
+Forestry 
+BinnieMods 
+ChickenChunks 
+CodeChickenCore 
+IronChest 
+ExtraCarts 
+FlatSigns 
+GraviSuite 
+IC2NuclearControl 
+inventorytweaks 
+Waila 
+JABBA 
+LogisticsPipes 
+MobiusCore 
+NEI 
+NEI-Intergration 
+Mantle 
+Magic Bees 
+Natura 
+OpenBlocks 
+OpenModsLib 
+Opis 
+Baubles 
+Thaumcraft 
+TiC-Tooltips 
+Railcraft 
+Roguelike Dungeons 
+SecretRoomsMod 
+StevesCarts 
+TConstruct 
+TMechworks 
+Translocator 
+TwilightForest 
+ForgeMultipart 
+WR-CBE 
+Baubles 
+Zans Minimap 
+MatMos
