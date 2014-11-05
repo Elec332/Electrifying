@@ -9,7 +9,6 @@ AppliedEnergistics2
 BiblioCraft 
 Better Title Screen 
 BuildCraft 
-BiblioCraft 
 Forestry 
 BinnieMods 
 ChickenChunks 
@@ -45,6 +44,5 @@ Translocator
 TwilightForest 
 ForgeMultipart 
 WR-CBE 
-Baubles 
 Zans Minimap 
 MatMos
