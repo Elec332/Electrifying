@@ -8,3 +8,5 @@ Electrifying/minecraft/screenshots/
 Electrifying/minecraft/logs
 Electrifying/minecraft/usernamecache.json
 Electrifying/minecraft/liteconfig/
+*.points
+Electrifying/minecraft/config/UniqueNames.txt
